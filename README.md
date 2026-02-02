@@ -1,4 +1,4 @@
-# REG_NMS_Matching_Engine
+# Low-Latency Order Matching Engine (Exchange Core)
 
 A high-performance, low-latency matching engine inspired by **REG NMS principles** and real-world centralized exchanges.
 
